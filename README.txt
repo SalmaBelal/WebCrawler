@@ -1,3 +1,4 @@
+https://www.zenrows.com/blog/web-crawler-python
 Getting Blocked When Web Crawling in Python
 The biggest challenge when it comes to web crawling in Python is getting blocked. Many sites protect their access with anti-bot measures, which can identify and stop automated applications, preventing them from accessing pages.
 
