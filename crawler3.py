@@ -16,9 +16,6 @@ visited_urls = []
 
 while not urls.empty() and len(visited_urls) < 50:
 
-    # delay for 1 second before making the next request (randomize it for so it's less likely to get flagged)
-    time.sleep(1)
-
     _, current_url = urls.get()
 
     response = requests.get(current_url)
